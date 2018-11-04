@@ -13,9 +13,8 @@ Xcode 9.2 or higher
 iOS 8 or higher
 ## Pods
 Two pods where used for this project:
-
-SDWebImage
-https://github.com/psharanda/Atributika
+* [SDWebImage](https://github.com/SDWebImage/SDWebImage)
+* [Atributika](https://github.com/psharanda/Atributika)
 ## Contribution
 * If you found a bug, open an issue.
 * If you have a feature request, open an issue.
