@@ -1,0 +1,22 @@
+PODS:
+  - Atributika (4.6.5)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - Atributika
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Atributika
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Atributika: f15e4c0003b34d5c6be92080f0ad6fecbe2c5c2f
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 5b5ec91c8733b97b2baf76dab01e1430d948944a
+
+COCOAPODS: 1.5.0
