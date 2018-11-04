@@ -20,7 +20,8 @@ class NewsViewController: UIViewController {
     @IBOutlet weak var categoriesCollectionView: UICollectionView!
     @IBOutlet weak var newsCollectionView: UICollectionView!
     
-    //This is a category array for UI display puposes, there is no action made on this array
+    //This is a category array for UI display puposes,
+    //there is no action made on this array nor the collection view containing it 
     var categories = ["Reise", "Sport","Geschäft","Bourse","Technik","Kultur"]
     var newsViewModels = [NewsViewModel]()
     var selectedIndexPath: IndexPath?
